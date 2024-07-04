@@ -2,4 +2,10 @@ Git commands
 
 git add filename
 git commit -m "commit comments"
-get push -u origin branch1
+git push origin -b branchname
+git staut
+
+
+
+To get any new project in to your space click on fork
+To get code in your local pc use git clone "path of ssh" --//this is from git hub
