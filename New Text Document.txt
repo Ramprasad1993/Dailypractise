@@ -12,3 +12,8 @@ git branch //to know in which branch you are
 
 To get any new project in to your space click on fork
 To get code in your local pc use git clone "path of ssh" --//this is from git hub
+
+
+When we get conflicts
+
+git merge origin/master
