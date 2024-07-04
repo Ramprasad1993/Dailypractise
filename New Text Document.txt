@@ -4,6 +4,9 @@ git add filename
 git commit -m "commit comments"
 git push origin -b branchname
 git stauts
+git checkout branchname
+git branch //to know in which branch you are
+
 
 //once you push the file to origin branch this will fall under pull request to respective leads.
 
