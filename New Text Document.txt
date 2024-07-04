@@ -3,7 +3,7 @@ Git commands
 git add filename
 git commit -m "commit comments"
 git push origin -b branchname
-git staut
+git stauts
 
 //once you push the file to origin branch this will fall under pull request to respective leads.
 
