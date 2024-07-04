@@ -5,7 +5,7 @@ git commit -m "commit comments"
 git push origin -b branchname
 git staut
 
-
+//once you push the file to origin branch this will fall under pull request to respective leads.
 
 To get any new project in to your space click on fork
 To get code in your local pc use git clone "path of ssh" --//this is from git hub
