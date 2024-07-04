@@ -1,0 +1,5 @@
+Git commands
+
+git add filename
+git commit -m "commit comments"
+get push -u origin branch1
