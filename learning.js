@@ -99,4 +99,41 @@ function loops()
         }
          
 }
-loops();
+//loops();
+function nestedloops()
+{
+    let sum=0;
+    let n=10;
+    for(i=1;i<=n;i++)
+        
+        {
+            for(j=0;j<5;j++)
+            console.log(i,j)
+            
+        }
+
+}
+//nestedloops()
+
+function whileloop()
+{
+    let i=0;
+    while(i<4)
+    {
+        console.log(i)
+        i++
+
+    }
+}
+//whileloop()
+
+function dowhile()
+{ let i=0;
+    do{
+        i++
+        console.log(i)
+
+    }while(i<=10)
+}
+
+dowhile()
